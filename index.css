@@ -1,5 +1,18 @@
 .Top {
-    margin:8px;
-    background-color:#FEFEFE;
-    border:1px dotted #CFCFCF;
+    margin: 8px;
+    background-color: #FEFEFE;
+    border: 1px dotted #CFCFCF;
+    border-radius:10px;
+}
+
+.Left {
+    float:left;
+    border:1px solid #CFCFCF;
+    position:relative;
+    left:8px;
+    width:200px;
+}
+
+.Main {
+
 }
