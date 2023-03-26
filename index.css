@@ -2,7 +2,8 @@
     margin: 8px;
     background-color: #FEFEFE;
     border: 1px dotted #CFCFCF;
-    border-radius:10px;
+    border-radius: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .Left {
@@ -11,7 +12,8 @@
     position:relative;
     left:8px;
     width:200px;
-    margin-right:16px
+    margin-right:32px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .Main {
