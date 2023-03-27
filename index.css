@@ -20,4 +20,7 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: left;
     float:left;
+    font-size:20px;
+    position: relative;
+    width: 70%;
 }
